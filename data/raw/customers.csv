@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Industry,Region,Country,Customer_Tier
+CUST0001,Vargas Ltd,Manufacturing,APAC,India,Strategic
+CUST0002,"Garza, Hodges and Meyer",Healthcare,EMEA,United Kingdom,Standard
+CUST0003,Graham-Ferguson,FMCG,APAC,Australia,Strategic
+CUST0004,Jenkins-Rich,Retail,APAC,India,Strategic
+CUST0005,Colon Inc,Retail,APAC,Australia,Standard
+CUST0006,"Johnson, Mccoy and Brown",Professional Services,LATAM,Brazil,Standard
+CUST0007,"Lawrence, Black and Noble",Banking,North America,United States,Standard
+CUST0008,"Davis, Coleman and Nelson",Manufacturing,LATAM,Mexico,Strategic
+CUST0009,Hill Group,Healthcare,EMEA,Germany,Strategic
+CUST0010,Smith-Ramos,Telecommunications,LATAM,Brazil,Premium
+CUST0011,"Vazquez, Price and Gonzalez",Professional Services,North America,United States,Standard
+CUST0012,Moreno and Sons,Healthcare,APAC,Singapore,Standard
+CUST0013,Fowler LLC,Retail,North America,Canada,Standard
+CUST0014,"Greene, Avila and Moore",Retail,APAC,India,Premium
+CUST0015,Orr Inc,Healthcare,APAC,India,Premium
+CUST0016,Small-Aguilar,Telecommunications,North America,Canada,Strategic
+CUST0017,"Bradley, Morris and Walker",Retail,North America,Canada,Standard
+CUST0018,"Morse, Chang and Bell",Banking,North America,United States,Standard
+CUST0019,"Newman, Peters and Hamilton",Professional Services,EMEA,United Kingdom,Premium
+CUST0020,"Montgomery, Simon and Holland",Telecommunications,North America,United States,Strategic
+CUST0021,"Ballard, Roberts and Ford",Telecommunications,EMEA,United Kingdom,Premium
+CUST0022,"Peterson, Huber and Mckee",Retail,North America,United States,Standard
+CUST0023,"Gomez, Harrison and Nelson",Professional Services,North America,United States,Premium
+CUST0024,Norman-French,Manufacturing,LATAM,Brazil,Strategic
+CUST0025,"Erickson, Hanson and Shannon",Manufacturing,EMEA,France,Standard
+CUST0026,Bell-Hernandez,Telecommunications,LATAM,Mexico,Strategic
+CUST0027,Koch-Hendrix,Professional Services,EMEA,France,Strategic
+CUST0028,Valdez-Maynard,Banking,APAC,India,Standard
+CUST0029,"Hutchinson, Harrison and Waters",FMCG,EMEA,France,Standard
+CUST0030,"Drake, Bailey and Brown",FMCG,APAC,Singapore,Standard
+CUST0031,"Alexander, Ward and West",Technology,LATAM,Mexico,Standard
+CUST0032,Moore and Sons,Manufacturing,APAC,Australia,Standard
+CUST0033,"Garcia, Fuller and Williams",Manufacturing,North America,United States,Premium
+CUST0034,White-Hernandez,Technology,EMEA,Germany,Standard
+CUST0035,Gonzales-Ramirez,Healthcare,North America,United States,Standard
+CUST0036,Hammond Inc,Banking,North America,United States,Premium
+CUST0037,"Smith, Jones and Rhodes",Technology,EMEA,France,Standard
+CUST0038,"Sanford, Gilmore and Johnson",Technology,North America,Canada,Strategic
+CUST0039,"Sanchez, Nguyen and Schroeder",Retail,North America,Canada,Strategic
+CUST0040,Walsh-Payne,Healthcare,EMEA,France,Strategic
+CUST0041,Mitchell Group,Banking,LATAM,Brazil,Strategic
+CUST0042,Lane-Horn,Manufacturing,LATAM,Brazil,Standard
+CUST0043,Tran Group,Retail,LATAM,Brazil,Standard
+CUST0044,Shaffer Group,Telecommunications,North America,Canada,Premium
+CUST0045,"Gilmore, West and Hernandez",Retail,LATAM,Brazil,Strategic
+CUST0046,Reyes Group,Technology,APAC,Singapore,Standard
+CUST0047,Morton Ltd,Retail,EMEA,France,Strategic
+CUST0048,Hull-Walker,Technology,APAC,Australia,Strategic
+CUST0049,Mayo Inc,Telecommunications,APAC,India,Strategic
+CUST0050,Jackson Inc,Professional Services,EMEA,Germany,Strategic
+CUST0051,"Fischer, Davis and Nelson",Professional Services,EMEA,France,Strategic
+CUST0052,Scott Group,Retail,LATAM,Mexico,Strategic
+CUST0053,Mason-Garcia,FMCG,APAC,Australia,Premium
+CUST0054,Rogers LLC,Professional Services,LATAM,Mexico,Standard
+CUST0055,Sandoval LLC,Healthcare,APAC,Australia,Strategic
+CUST0056,Schultz-Henderson,Healthcare,LATAM,Mexico,Strategic
+CUST0057,Stone-Robinson,Professional Services,EMEA,United Kingdom,Strategic
+CUST0058,Hart PLC,Manufacturing,LATAM,Brazil,Premium
+CUST0059,Reyes-Miller,Professional Services,EMEA,United Kingdom,Standard
+CUST0060,Hayes PLC,Technology,APAC,India,Strategic
+CUST0061,"Gomez, Williams and Smith",FMCG,EMEA,United Kingdom,Premium
+CUST0062,Haynes and Sons,FMCG,LATAM,Brazil,Strategic
+CUST0063,"Lester, Burnett and Smith",Technology,EMEA,Germany,Premium
+CUST0064,Johnson-Thompson,Manufacturing,North America,Canada,Premium
+CUST0065,Gomez-Benton,Retail,LATAM,Brazil,Premium
+CUST0066,Valdez-Travis,Technology,EMEA,United Kingdom,Standard
+CUST0067,Love-Thomas,Technology,North America,United States,Standard
+CUST0068,Fox-Murphy,Technology,LATAM,Brazil,Standard
+CUST0069,"Martinez, Wright and Hendricks",Healthcare,APAC,India,Standard
+CUST0070,"Cain, Gutierrez and Wiggins",Retail,APAC,Australia,Premium
+CUST0071,Rodriguez-Martinez,Retail,APAC,Australia,Standard
+CUST0072,Webster-Green,Healthcare,APAC,Australia,Premium
+CUST0073,Johnson Ltd,Retail,North America,Canada,Standard
+CUST0074,Hunter-Hernandez,Manufacturing,North America,United States,Premium
+CUST0075,Davenport-Patterson,Manufacturing,EMEA,France,Premium
+CUST0076,Jacobs Group,Technology,North America,United States,Premium
+CUST0077,Short Ltd,Retail,APAC,India,Standard
+CUST0078,Leblanc-Coffey,Telecommunications,North America,United States,Strategic
+CUST0079,"Houston, Hines and Snyder",Manufacturing,EMEA,Germany,Strategic
+CUST0080,Smith-King,Technology,LATAM,Mexico,Standard
+CUST0081,Brown-Landry,Banking,North America,United States,Premium
+CUST0082,Griffith Group,Banking,APAC,India,Premium
+CUST0083,Anderson-Wong,Telecommunications,North America,United States,Strategic
+CUST0084,Fleming-Suarez,Manufacturing,North America,Canada,Strategic
+CUST0085,Thomas-Contreras,FMCG,APAC,Australia,Premium
+CUST0086,Davenport Group,Telecommunications,APAC,India,Strategic
+CUST0087,"Moss, Everett and Simpson",Professional Services,North America,United States,Standard
+CUST0088,"Hanson, Perez and Holden",Healthcare,LATAM,Brazil,Strategic
+CUST0089,"Collins, Wood and Franklin",Technology,EMEA,France,Premium
+CUST0090,Arnold-Cruz,Banking,EMEA,Germany,Strategic
+CUST0091,Anthony Inc,Technology,North America,Canada,Premium
+CUST0092,Day-Rodgers,Retail,EMEA,France,Standard
+CUST0093,Mckenzie-Oconnor,FMCG,APAC,Singapore,Standard
+CUST0094,"Buck, Cunningham and Ramos",Banking,EMEA,United Kingdom,Strategic
+CUST0095,Williams PLC,Banking,LATAM,Brazil,Standard
+CUST0096,Nguyen-Burch,Retail,North America,Canada,Premium
+CUST0097,Smith Ltd,Healthcare,EMEA,France,Premium
+CUST0098,"Carr, Irwin and Barrett",Retail,APAC,Singapore,Strategic
+CUST0099,Cox Inc,Manufacturing,LATAM,Mexico,Strategic
+CUST0100,Hughes PLC,Retail,EMEA,United Kingdom,Premium
+CUST0101,Mosley Inc,Healthcare,North America,Canada,Premium
+CUST0102,"Jackson, Oconnell and Rodriguez",Telecommunications,North America,Canada,Strategic
+CUST0103,"Smith, Butler and Bishop",Banking,APAC,Singapore,Standard
+CUST0104,Lambert-Gomez,Healthcare,North America,United States,Standard
+CUST0105,Morrison Group,Telecommunications,LATAM,Mexico,Premium
+CUST0106,Reynolds and Sons,Retail,APAC,Singapore,Premium
+CUST0107,Morrison-Torres,FMCG,APAC,Australia,Strategic
+CUST0108,"Wang, Garza and Benjamin",FMCG,EMEA,Germany,Strategic
+CUST0109,Lewis and Sons,Healthcare,North America,Canada,Standard
+CUST0110,Crawford and Sons,FMCG,North America,Canada,Premium
+CUST0111,Sims-Mcdowell,Banking,LATAM,Mexico,Strategic
+CUST0112,Glenn-Decker,Banking,LATAM,Mexico,Standard
+CUST0113,Salazar-Johnson,Technology,North America,Canada,Premium
+CUST0114,Roberts-Richardson,FMCG,North America,United States,Standard
+CUST0115,"Mccoy, Potter and Allison",Professional Services,North America,Canada,Premium
+CUST0116,"Ramirez, Ward and Brown",Professional Services,EMEA,France,Standard
+CUST0117,Little Ltd,Healthcare,EMEA,France,Premium
+CUST0118,Hahn LLC,Retail,North America,United States,Standard
+CUST0119,Roberts-Allen,Retail,North America,United States,Strategic
+CUST0120,"Allen, Fernandez and Luna",Retail,APAC,India,Premium
+CUST0121,Grant Ltd,FMCG,APAC,Singapore,Standard
+CUST0122,Walls PLC,FMCG,EMEA,France,Premium
+CUST0123,"Wallace, Ray and Ayala",Banking,LATAM,Brazil,Standard
+CUST0124,Obrien-Larsen,FMCG,APAC,India,Strategic
+CUST0125,Rangel and Sons,Professional Services,EMEA,France,Strategic
+CUST0126,Allen-Espinoza,Professional Services,EMEA,United Kingdom,Strategic
+CUST0127,"James, Taylor and Gonzalez",Professional Services,LATAM,Mexico,Standard
+CUST0128,Phillips-Collins,Banking,LATAM,Mexico,Standard
+CUST0129,Moore-Vaughan,Manufacturing,LATAM,Mexico,Strategic
+CUST0130,Hall-Jones,Retail,North America,Canada,Premium
+CUST0131,"Riley, Martinez and Oconnor",Manufacturing,LATAM,Brazil,Strategic
+CUST0132,Thomas-Perez,Telecommunications,North America,Canada,Standard
+CUST0133,"Lopez, Clark and Garcia",Banking,APAC,India,Strategic
+CUST0134,"Curry, Ford and Torres",Retail,LATAM,Brazil,Strategic
+CUST0135,Rich Ltd,Telecommunications,LATAM,Mexico,Standard
+CUST0136,Moore and Sons,Technology,LATAM,Mexico,Strategic
+CUST0137,"Perez, Kelly and Newton",Technology,LATAM,Mexico,Standard
+CUST0138,Reyes-Clark,Technology,LATAM,Mexico,Premium
+CUST0139,Love-Jacobs,FMCG,North America,Canada,Standard
+CUST0140,Clark-Smith,Retail,EMEA,Germany,Premium
+CUST0141,Pennington Group,Technology,LATAM,Mexico,Premium
+CUST0142,"Jackson, Guerra and Blanchard",Banking,North America,Canada,Premium
+CUST0143,Becker-Wilson,Technology,EMEA,France,Premium
+CUST0144,Anderson LLC,FMCG,APAC,India,Strategic
+CUST0145,"Mullen, Dunn and Miller",Technology,LATAM,Brazil,Premium
+CUST0146,Gray-Miller,Retail,LATAM,Mexico,Premium
+CUST0147,Baker-Pruitt,FMCG,North America,Canada,Premium
+CUST0148,Miller-Silva,Healthcare,LATAM,Mexico,Premium
+CUST0149,"Perez, Green and Schmitt",Technology,APAC,Australia,Premium
+CUST0150,Steele-Davis,Healthcare,EMEA,France,Standard
+CUST0151,Moore-Jackson,Retail,APAC,India,Strategic
+CUST0152,Porter-Woodard,Banking,APAC,Australia,Strategic
+CUST0153,Murphy-Smith,Healthcare,EMEA,Germany,Standard
+CUST0154,Curtis and Sons,Manufacturing,EMEA,Germany,Premium
+CUST0155,"Kelly, Kennedy and Foster",Healthcare,EMEA,France,Strategic
+CUST0156,Russell Group,Technology,North America,United States,Premium
+CUST0157,Duarte Ltd,Retail,LATAM,Mexico,Strategic
+CUST0158,"Miller, Kent and Rivers",Manufacturing,EMEA,United Kingdom,Standard
+CUST0159,"Silva, Kelly and Miller",Technology,APAC,Australia,Premium
+CUST0160,"Brown, Moss and Sutton",Healthcare,LATAM,Mexico,Standard
+CUST0161,Turner PLC,FMCG,North America,United States,Premium
+CUST0162,Williams-Mitchell,Telecommunications,APAC,Singapore,Standard
+CUST0163,"Lee, Garcia and Mitchell",FMCG,LATAM,Brazil,Strategic
+CUST0164,"Powell, Steele and Knight",Professional Services,North America,Canada,Premium
+CUST0165,Blankenship-Brown,Retail,North America,Canada,Strategic
+CUST0166,Calderon-Martin,Retail,North America,Canada,Premium
+CUST0167,Flores and Sons,Technology,LATAM,Mexico,Premium
+CUST0168,Washington-Glass,Professional Services,North America,United States,Strategic
+CUST0169,"Barker, Mills and Walker",Telecommunications,North America,Canada,Premium
+CUST0170,Taylor-Rodriguez,Retail,North America,United States,Strategic
+CUST0171,"Vincent, Patterson and Spears",FMCG,EMEA,France,Premium
+CUST0172,Perez-Cordova,Professional Services,EMEA,France,Standard
+CUST0173,Burke-Petersen,Technology,LATAM,Mexico,Strategic
+CUST0174,Cross Inc,FMCG,North America,United States,Standard
+CUST0175,"Martin, Barr and Lee",Telecommunications,EMEA,Germany,Premium
+CUST0176,"Palmer, Coleman and Walters",Telecommunications,North America,Canada,Premium
+CUST0177,Holt-Orozco,Manufacturing,LATAM,Mexico,Premium
+CUST0178,Mullen PLC,Retail,EMEA,United Kingdom,Premium
+CUST0179,Watkins-Bradley,Banking,APAC,Australia,Strategic
+CUST0180,Martin PLC,Professional Services,EMEA,France,Premium
+CUST0181,Garcia LLC,Retail,North America,United States,Premium
+CUST0182,Hobbs Group,Banking,EMEA,Germany,Premium
+CUST0183,"Jones, Martin and Petersen",Banking,APAC,Australia,Premium
+CUST0184,Weeks-Johnson,Manufacturing,APAC,India,Standard
+CUST0185,Kelly Inc,Professional Services,EMEA,France,Strategic
+CUST0186,Tapia LLC,Manufacturing,APAC,Australia,Premium
+CUST0187,Ortega-Nicholson,Telecommunications,LATAM,Mexico,Strategic
+CUST0188,Stone-Ferguson,Professional Services,APAC,Singapore,Strategic
+CUST0189,Bishop Group,Professional Services,APAC,Singapore,Strategic
+CUST0190,Johnson-Jones,Banking,APAC,India,Standard
+CUST0191,Wilson Inc,Retail,North America,United States,Strategic
+CUST0192,Powell Group,FMCG,LATAM,Brazil,Premium
+CUST0193,"Smith, Elliott and Coleman",FMCG,LATAM,Mexico,Premium
+CUST0194,Moreno-Pacheco,Healthcare,APAC,Australia,Strategic
+CUST0195,"Norton, Gomez and Carney",Healthcare,EMEA,Germany,Strategic
+CUST0196,"Reese, Mills and Bernard",Healthcare,EMEA,United Kingdom,Strategic
+CUST0197,"Harrington, Jenkins and Davis",Professional Services,APAC,Singapore,Standard
+CUST0198,Powell Group,Technology,LATAM,Mexico,Strategic
+CUST0199,"Parker, Shaffer and Martinez",Professional Services,North America,Canada,Strategic
+CUST0200,"Davies, Ewing and Leonard",Retail,EMEA,Germany,Premium
+CUST0201,Grimes-Smith,Retail,APAC,Australia,Standard
+CUST0202,Green PLC,Banking,EMEA,Germany,Strategic
+CUST0203,Horton-Phillips,Manufacturing,APAC,India,Standard
+CUST0204,Anderson Group,Healthcare,North America,Canada,Premium
+CUST0205,"Bush, Alvarado and Davis",Manufacturing,North America,Canada,Standard
+CUST0206,"Riley, Foster and Carson",Healthcare,LATAM,Mexico,Standard
+CUST0207,Vargas Ltd,Telecommunications,APAC,Singapore,Standard
+CUST0208,Washington-Morris,Healthcare,North America,United States,Strategic
+CUST0209,Yates-Garcia,Manufacturing,APAC,Australia,Standard
+CUST0210,Williams-Fox,Professional Services,APAC,India,Standard
+CUST0211,Miller-Whitaker,Banking,LATAM,Mexico,Standard
+CUST0212,Ross and Sons,Healthcare,LATAM,Mexico,Premium
+CUST0213,Johnson-Campbell,Telecommunications,North America,Canada,Premium
+CUST0214,Clay Ltd,Telecommunications,APAC,India,Premium
+CUST0215,Day Group,FMCG,LATAM,Mexico,Standard
+CUST0216,Harris Ltd,Healthcare,APAC,Singapore,Premium
+CUST0217,Lopez-Miller,Healthcare,North America,Canada,Premium
+CUST0218,Wilson-Grant,Professional Services,APAC,Australia,Premium
+CUST0219,"Hardy, Bailey and Nguyen",Telecommunications,APAC,India,Standard
+CUST0220,Avila PLC,Technology,LATAM,Mexico,Strategic
+CUST0221,"Underwood, Rubio and Davis",Manufacturing,North America,United States,Premium
+CUST0222,"Thomas, Griffin and Pugh",Technology,LATAM,Brazil,Standard
+CUST0223,"Spence, Fisher and Davis",Banking,EMEA,France,Premium
+CUST0224,Rangel Group,FMCG,APAC,Australia,Strategic
+CUST0225,Thompson-Hernandez,Professional Services,EMEA,United Kingdom,Strategic
+CUST0226,"Moss, Lyons and Stout",Manufacturing,EMEA,Germany,Standard
+CUST0227,Wilson Ltd,Professional Services,North America,Canada,Premium
+CUST0228,Williams and Sons,Banking,EMEA,Germany,Premium
+CUST0229,Lee-Wright,Banking,EMEA,France,Strategic
+CUST0230,Wilson LLC,Telecommunications,North America,Canada,Standard
+CUST0231,French Inc,Manufacturing,North America,United States,Standard
+CUST0232,Lopez-Miles,Banking,North America,Canada,Premium
+CUST0233,Parker-Gonzalez,Telecommunications,LATAM,Mexico,Standard
+CUST0234,"Guerrero, Yoder and Johnson",Telecommunications,LATAM,Mexico,Strategic
+CUST0235,Collins-Graham,FMCG,EMEA,France,Strategic
+CUST0236,Gaines-Savage,Telecommunications,LATAM,Brazil,Standard
+CUST0237,Ray PLC,FMCG,LATAM,Mexico,Standard
+CUST0238,Morrow Inc,Technology,EMEA,Germany,Strategic
+CUST0239,"Diaz, Glover and Jones",Professional Services,North America,United States,Strategic
+CUST0240,Hart-Phillips,Banking,LATAM,Brazil,Premium
+CUST0241,Watkins-Smith,Professional Services,EMEA,United Kingdom,Premium
+CUST0242,Gross-Ramirez,Healthcare,North America,Canada,Premium
+CUST0243,Adams Ltd,Professional Services,LATAM,Mexico,Standard
+CUST0244,Rios PLC,Healthcare,APAC,Australia,Strategic
+CUST0245,Tran-Lee,Healthcare,North America,United States,Premium
+CUST0246,"Jennings, Archer and Holmes",Healthcare,APAC,Australia,Premium
+CUST0247,"Young, Miller and Snyder",Manufacturing,EMEA,France,Strategic
+CUST0248,Smith PLC,Technology,APAC,Singapore,Premium
+CUST0249,"Mcdonald, Perry and Russell",FMCG,North America,Canada,Strategic
+CUST0250,Hall-Jones,FMCG,EMEA,France,Standard
+CUST0251,"Cummings, Hahn and Charles",Banking,EMEA,United Kingdom,Strategic
+CUST0252,Flores-Wilson,Professional Services,LATAM,Brazil,Standard
+CUST0253,Black PLC,Professional Services,EMEA,United Kingdom,Standard
+CUST0254,Jones-Brown,Manufacturing,North America,Canada,Standard
+CUST0255,Montes-Miller,Manufacturing,APAC,Singapore,Standard
+CUST0256,Hansen PLC,Professional Services,EMEA,United Kingdom,Premium
+CUST0257,Thomas and Sons,Manufacturing,North America,Canada,Premium
+CUST0258,Roberts-Herrera,FMCG,North America,United States,Premium
+CUST0259,Duncan Inc,FMCG,APAC,India,Standard
+CUST0260,"Ellis, Adams and Garrison",Manufacturing,North America,Canada,Strategic
+CUST0261,"Miller, Bradley and Foster",Technology,LATAM,Mexico,Standard
+CUST0262,Ferguson-Tucker,Professional Services,APAC,Australia,Premium
+CUST0263,Briggs Inc,Telecommunications,EMEA,France,Strategic
+CUST0264,Boyd and Sons,Manufacturing,EMEA,France,Standard
+CUST0265,Roth Ltd,Healthcare,EMEA,France,Standard
+CUST0266,Washington and Sons,Professional Services,APAC,Singapore,Strategic
+CUST0267,Dougherty-Valenzuela,Healthcare,North America,United States,Premium
+CUST0268,"Cox, Pham and Bailey",Banking,North America,Canada,Strategic
+CUST0269,Williams Ltd,Telecommunications,EMEA,France,Standard
+CUST0270,"Duran, Wilson and Nelson",Manufacturing,North America,United States,Premium
+CUST0271,Thompson LLC,Healthcare,North America,Canada,Premium
+CUST0272,"Arroyo, Williams and Williams",Retail,APAC,India,Standard
+CUST0273,Simpson-Prince,Healthcare,LATAM,Mexico,Premium
+CUST0274,Villanueva Ltd,Healthcare,APAC,Singapore,Premium
+CUST0275,Ford and Sons,FMCG,North America,Canada,Standard
+CUST0276,Smith-Johnston,Retail,North America,United States,Premium
+CUST0277,Haas-Woods,Telecommunications,APAC,Australia,Standard
+CUST0278,Woods Group,Healthcare,EMEA,France,Standard
+CUST0279,Carter-Yang,FMCG,LATAM,Mexico,Strategic
+CUST0280,Moore Group,Technology,EMEA,United Kingdom,Premium
+CUST0281,Cunningham-Gonzales,Healthcare,LATAM,Brazil,Strategic
+CUST0282,Jones-Wright,Professional Services,EMEA,Germany,Premium
+CUST0283,Lopez-Duke,FMCG,LATAM,Brazil,Standard
+CUST0284,"Gibson, Rowe and Chang",FMCG,APAC,Singapore,Premium
+CUST0285,"Walker, Garza and Chandler",Telecommunications,APAC,Australia,Strategic
+CUST0286,Villanueva-Graves,Retail,LATAM,Mexico,Premium
+CUST0287,Ortiz LLC,Telecommunications,APAC,Australia,Standard
+CUST0288,Goodwin-Moore,FMCG,North America,United States,Premium
+CUST0289,Pugh and Sons,Professional Services,EMEA,United Kingdom,Strategic
+CUST0290,"Campbell, Reed and Johnson",Technology,EMEA,France,Strategic
+CUST0291,"Booth, Ray and Pace",Banking,North America,United States,Standard
+CUST0292,Rodgers Inc,Retail,EMEA,United Kingdom,Standard
+CUST0293,"Medina, White and Montgomery",Telecommunications,EMEA,United Kingdom,Strategic
+CUST0294,Wong and Sons,Banking,APAC,Singapore,Strategic
+CUST0295,"Davis, Mitchell and Porter",Healthcare,North America,United States,Standard
+CUST0296,Murray-Coleman,Technology,APAC,India,Premium
+CUST0297,"Hicks, Snyder and Burgess",Telecommunications,EMEA,France,Strategic
+CUST0298,Morales Inc,Technology,EMEA,Germany,Strategic
+CUST0299,Santana-Hunt,Healthcare,LATAM,Brazil,Premium
+CUST0300,"Dunn, Weaver and Hill",Healthcare,LATAM,Mexico,Premium
+CUST0301,Smith-Hanson,Technology,EMEA,France,Standard
+CUST0302,Beasley-Sellers,Technology,North America,Canada,Strategic
+CUST0303,Davis LLC,FMCG,LATAM,Mexico,Standard
+CUST0304,Bailey Ltd,Professional Services,APAC,Singapore,Strategic
+CUST0305,Garcia PLC,Banking,APAC,Singapore,Strategic
+CUST0306,Collins and Sons,Telecommunications,EMEA,Germany,Premium
+CUST0307,Williams PLC,FMCG,North America,Canada,Strategic
+CUST0308,Watkins LLC,Retail,APAC,Australia,Premium
+CUST0309,Jones Inc,FMCG,LATAM,Brazil,Premium
+CUST0310,"Duran, Wilson and Gould",FMCG,LATAM,Mexico,Standard
+CUST0311,Vasquez-Bishop,FMCG,APAC,Singapore,Premium
+CUST0312,Gibbs LLC,Banking,North America,Canada,Standard
+CUST0313,Reese PLC,Healthcare,LATAM,Brazil,Strategic
+CUST0314,Hale PLC,Healthcare,APAC,Singapore,Standard
+CUST0315,Owen-Garcia,Technology,North America,United States,Standard
+CUST0316,Lopez Inc,FMCG,North America,United States,Premium
+CUST0317,Wood-Ward,Manufacturing,LATAM,Brazil,Standard
+CUST0318,"Cuevas, Martinez and Cruz",Healthcare,North America,Canada,Standard
+CUST0319,Williams-Bryant,Professional Services,EMEA,United Kingdom,Strategic
+CUST0320,"Grimes, Rodriguez and Martinez",Telecommunications,APAC,Singapore,Strategic
+CUST0321,Long Inc,FMCG,North America,United States,Standard
+CUST0322,"Phillips, Harrell and Collins",Manufacturing,APAC,Australia,Strategic
+CUST0323,"Brown, Davis and Washington",Manufacturing,EMEA,Germany,Premium
+CUST0324,Mckinney-Williams,Banking,North America,United States,Strategic
+CUST0325,"Edwards, Moon and Perkins",Banking,LATAM,Brazil,Standard
+CUST0326,Johnson and Sons,Retail,APAC,India,Premium
+CUST0327,Johnson-Moreno,Telecommunications,LATAM,Mexico,Strategic
+CUST0328,"Small, Jones and Bauer",Telecommunications,North America,Canada,Standard
+CUST0329,Butler and Sons,Banking,APAC,India,Strategic
+CUST0330,Delgado-Wilson,Healthcare,APAC,Australia,Premium
+CUST0331,Austin Ltd,Professional Services,LATAM,Mexico,Standard
+CUST0332,"Mejia, Wilkinson and Evans",Manufacturing,LATAM,Mexico,Strategic
+CUST0333,Johnson Group,FMCG,APAC,Singapore,Strategic
+CUST0334,Coleman-Macias,Manufacturing,North America,Canada,Strategic
+CUST0335,"Kelly, Knight and Gould",Technology,EMEA,Germany,Strategic
+CUST0336,"Bullock, Smith and Ortiz",Retail,EMEA,Germany,Strategic
+CUST0337,Wiggins-Martin,Telecommunications,North America,Canada,Strategic
+CUST0338,Greene Ltd,FMCG,APAC,Singapore,Strategic
+CUST0339,Taylor-Gutierrez,Retail,EMEA,Germany,Standard
+CUST0340,"Campbell, Hernandez and Gilbert",FMCG,North America,United States,Standard
+CUST0341,Johnson-Clark,Technology,APAC,Singapore,Premium
+CUST0342,Brown-Love,FMCG,APAC,Singapore,Standard
+CUST0343,"Valencia, Garcia and Bell",Manufacturing,LATAM,Mexico,Strategic
+CUST0344,Mathews PLC,Telecommunications,LATAM,Brazil,Strategic
+CUST0345,Castro-Webb,Healthcare,LATAM,Mexico,Premium
+CUST0346,"Stevens, Perry and Smith",FMCG,APAC,India,Standard
+CUST0347,"Chase, Herrera and Castillo",FMCG,LATAM,Brazil,Premium
+CUST0348,Marsh-Miller,Telecommunications,North America,United States,Strategic
+CUST0349,Mcneil Group,Healthcare,APAC,Australia,Standard
+CUST0350,"Ortiz, Oliver and Wade",Telecommunications,EMEA,Germany,Standard
+CUST0351,White LLC,Healthcare,EMEA,United Kingdom,Strategic
+CUST0352,Lynn Inc,Banking,North America,United States,Standard
+CUST0353,"Little, Howard and Johnson",Healthcare,EMEA,France,Strategic
+CUST0354,Patterson LLC,Professional Services,LATAM,Mexico,Standard
+CUST0355,Mills LLC,Banking,North America,Canada,Premium
+CUST0356,"Contreras, Thompson and Bell",Professional Services,APAC,Singapore,Standard
+CUST0357,"Thompson, Valentine and Diaz",Technology,North America,Canada,Premium
+CUST0358,"Martinez, Hunter and Collins",Professional Services,APAC,Singapore,Premium
+CUST0359,Jones-Bauer,Telecommunications,APAC,India,Premium
+CUST0360,"Sanders, Stone and Kelley",Healthcare,APAC,Australia,Standard
+CUST0361,Miller-Mitchell,Technology,LATAM,Mexico,Premium
+CUST0362,"Moore, Smith and Parker",Professional Services,EMEA,Germany,Standard
+CUST0363,Valdez-Ross,Professional Services,EMEA,United Kingdom,Strategic
+CUST0364,"Maldonado, Vaughn and Smith",Banking,North America,United States,Strategic
+CUST0365,"West, Short and White",Professional Services,EMEA,France,Premium
+CUST0366,Garcia-Brewer,Telecommunications,EMEA,Germany,Premium
+CUST0367,Adams Group,Telecommunications,LATAM,Mexico,Standard
+CUST0368,"Oneill, Grant and Wright",Telecommunications,APAC,Australia,Strategic
+CUST0369,Juarez-Brown,FMCG,North America,United States,Premium
+CUST0370,Costa PLC,Telecommunications,North America,United States,Strategic
+CUST0371,Garcia-Bond,Manufacturing,EMEA,Germany,Standard
+CUST0372,"Norton, Daniel and Allen",Healthcare,LATAM,Brazil,Premium
+CUST0373,Mason-Carter,Banking,LATAM,Mexico,Standard
+CUST0374,"Hawkins, Beck and White",FMCG,APAC,Australia,Standard
+CUST0375,"Bridges, Moran and Barajas",Telecommunications,North America,United States,Premium
+CUST0376,"Murphy, Jefferson and Campbell",Telecommunications,EMEA,United Kingdom,Premium
+CUST0377,Robertson Ltd,Banking,EMEA,United Kingdom,Strategic
+CUST0378,Rich-Taylor,Healthcare,APAC,Singapore,Standard
+CUST0379,"Graves, Contreras and Little",Telecommunications,APAC,Australia,Standard
+CUST0380,Coleman LLC,FMCG,EMEA,France,Strategic
+CUST0381,Rios-Elliott,Banking,EMEA,United Kingdom,Standard
+CUST0382,Burns and Sons,FMCG,LATAM,Brazil,Premium
+CUST0383,Kelley-Cameron,Manufacturing,EMEA,Germany,Standard
+CUST0384,Lee and Sons,Retail,LATAM,Brazil,Premium
+CUST0385,Marquez-Fitzgerald,Telecommunications,LATAM,Brazil,Standard
+CUST0386,Bullock LLC,Manufacturing,LATAM,Mexico,Premium
+CUST0387,Lucas Group,Retail,LATAM,Brazil,Standard
+CUST0388,Harris-Mcconnell,Technology,EMEA,Germany,Standard
+CUST0389,Snyder-Greene,Healthcare,LATAM,Mexico,Standard
+CUST0390,Robertson PLC,Healthcare,APAC,Singapore,Strategic
+CUST0391,"Brown, Craig and Mccoy",Banking,North America,Canada,Premium
+CUST0392,"Miller, Jones and Shaw",Professional Services,APAC,India,Premium
+CUST0393,Butler Ltd,Technology,APAC,Singapore,Premium
+CUST0394,"Lopez, Cole and Smith",FMCG,North America,United States,Strategic
+CUST0395,Velez-Martin,Technology,North America,United States,Premium
+CUST0396,"Molina, Graham and Vance",Telecommunications,APAC,Australia,Strategic
+CUST0397,Knight Inc,Manufacturing,EMEA,United Kingdom,Premium
+CUST0398,Harris Inc,Professional Services,EMEA,France,Premium
+CUST0399,"Moore, Ford and Wade",Technology,APAC,India,Premium
+CUST0400,"Bridges, Owens and Garcia",FMCG,EMEA,United Kingdom,Strategic
+CUST0401,"Miller, Stout and Palmer",Manufacturing,North America,United States,Strategic
+CUST0402,Hill-Hoffman,FMCG,APAC,India,Standard
+CUST0403,Powell-Erickson,Healthcare,LATAM,Brazil,Premium
+CUST0404,Walker PLC,Retail,APAC,Australia,Standard
+CUST0405,Anderson Inc,FMCG,EMEA,Germany,Strategic
+CUST0406,Rich LLC,FMCG,North America,United States,Strategic
+CUST0407,Adams PLC,Telecommunications,APAC,Australia,Strategic
+CUST0408,"Jackson, Brown and Anderson",Professional Services,APAC,Singapore,Strategic
+CUST0409,Roberts-Kelly,Manufacturing,LATAM,Mexico,Standard
+CUST0410,Sanchez-Flores,Healthcare,APAC,Singapore,Premium
+CUST0411,Castaneda PLC,Healthcare,EMEA,France,Standard
+CUST0412,"Lopez, Powell and Collins",Technology,North America,United States,Premium
+CUST0413,Sanders LLC,Professional Services,North America,United States,Standard
+CUST0414,Hill-Sanchez,Banking,LATAM,Brazil,Strategic
+CUST0415,Frederick and Sons,Manufacturing,LATAM,Brazil,Strategic
+CUST0416,"Bolton, Juarez and Duran",Technology,APAC,India,Premium
+CUST0417,Preston-Patterson,Professional Services,North America,Canada,Premium
+CUST0418,Wilson Group,Retail,APAC,Australia,Premium
+CUST0419,Sanders-Smith,Telecommunications,North America,United States,Premium
+CUST0420,Dodson-Lane,FMCG,APAC,Singapore,Premium
+CUST0421,Sanchez-Myers,Telecommunications,LATAM,Mexico,Strategic
+CUST0422,Best-Moses,Telecommunications,LATAM,Mexico,Standard
+CUST0423,Crawford-Holmes,FMCG,North America,United States,Strategic
+CUST0424,Martinez-Smith,Manufacturing,LATAM,Brazil,Premium
+CUST0425,Thomas-Anderson,Telecommunications,APAC,India,Standard
+CUST0426,Johnson-Jones,Professional Services,North America,Canada,Standard
+CUST0427,Eaton-Barber,Professional Services,LATAM,Brazil,Premium
+CUST0428,Sandoval-House,Telecommunications,LATAM,Brazil,Standard
+CUST0429,Reed-Jones,Technology,LATAM,Mexico,Strategic
+CUST0430,Morales and Sons,Banking,LATAM,Mexico,Strategic
+CUST0431,"Mcdaniel, Gardner and Simmons",Professional Services,EMEA,France,Strategic
+CUST0432,Bowman-Adams,Retail,EMEA,United Kingdom,Standard
+CUST0433,Best-Meadows,FMCG,North America,Canada,Standard
+CUST0434,"Ramirez, Brown and Berry",Banking,APAC,Australia,Standard
+CUST0435,Montgomery-Perkins,Telecommunications,LATAM,Mexico,Premium
+CUST0436,"Garcia, Edwards and Ferrell",Banking,APAC,Australia,Standard
+CUST0437,Medina-Massey,Telecommunications,North America,Canada,Standard
+CUST0438,George Inc,Healthcare,North America,United States,Strategic
+CUST0439,"Soto, Espinoza and Gonzalez",FMCG,EMEA,Germany,Standard
+CUST0440,Williams-Chen,Manufacturing,APAC,Singapore,Standard
+CUST0441,"Barajas, Garcia and Arias",Manufacturing,LATAM,Brazil,Standard
+CUST0442,Oconnor-Schroeder,Healthcare,LATAM,Brazil,Strategic
+CUST0443,Powers-Becker,Banking,APAC,Singapore,Standard
+CUST0444,"Rivera, Wagner and Hall",Telecommunications,LATAM,Brazil,Standard
+CUST0445,Farrell and Sons,Manufacturing,North America,United States,Premium
+CUST0446,Collier-Moore,Banking,EMEA,France,Premium
+CUST0447,"Jackson, Norman and Foster",Retail,EMEA,United Kingdom,Strategic
+CUST0448,Allen-Powers,Technology,EMEA,Germany,Premium
+CUST0449,Watson Group,Banking,North America,Canada,Standard
+CUST0450,Kelly PLC,Manufacturing,APAC,India,Premium
+CUST0451,"Wheeler, Daniels and Moore",FMCG,LATAM,Mexico,Standard
+CUST0452,Grant-Hanna,Telecommunications,APAC,India,Standard
+CUST0453,Padilla Ltd,Professional Services,APAC,Singapore,Standard
+CUST0454,"Rodriguez, Allen and Logan",Banking,North America,United States,Strategic
+CUST0455,"White, Bennett and Kramer",Healthcare,LATAM,Brazil,Standard
+CUST0456,Harrison PLC,Banking,EMEA,Germany,Strategic
+CUST0457,Henson-Duncan,Telecommunications,North America,United States,Standard
+CUST0458,Johnson-Huber,Manufacturing,North America,United States,Strategic
+CUST0459,"Rogers, Cameron and Rodriguez",Manufacturing,North America,United States,Standard
+CUST0460,"Andrade, Rojas and Frank",Banking,APAC,Australia,Standard
+CUST0461,Martinez Ltd,Telecommunications,EMEA,United Kingdom,Standard
+CUST0462,Walker-Wells,Healthcare,APAC,India,Strategic
+CUST0463,Green Inc,FMCG,North America,United States,Standard
+CUST0464,"Robertson, Luna and Miller",Manufacturing,APAC,Singapore,Standard
+CUST0465,Morton-Mcdonald,Retail,North America,Canada,Standard
+CUST0466,Lee-English,Professional Services,LATAM,Mexico,Strategic
+CUST0467,Norton PLC,Professional Services,APAC,India,Premium
+CUST0468,Fritz-Clark,Retail,LATAM,Mexico,Premium
+CUST0469,Willis PLC,Telecommunications,EMEA,Germany,Standard
+CUST0470,Castillo Group,Banking,North America,Canada,Premium
+CUST0471,Livingston-Dyer,Retail,APAC,Singapore,Premium
+CUST0472,Brown PLC,Professional Services,APAC,Singapore,Strategic
+CUST0473,Miller-Tran,Technology,EMEA,United Kingdom,Premium
+CUST0474,"Heath, Little and Buckley",Retail,LATAM,Mexico,Strategic
+CUST0475,"Nelson, Hartman and Romero",Retail,North America,Canada,Strategic
+CUST0476,"Williams, Clements and Baker",Professional Services,LATAM,Mexico,Premium
+CUST0477,"Jones, Cohen and Lindsey",Healthcare,LATAM,Brazil,Premium
+CUST0478,Kirk Group,Retail,LATAM,Brazil,Standard
+CUST0479,Martinez-Love,Technology,North America,United States,Premium
+CUST0480,"Oconnell, Zimmerman and Carr",Manufacturing,LATAM,Mexico,Standard
+CUST0481,"Robertson, Fuller and Burch",FMCG,APAC,India,Strategic
+CUST0482,Diaz-Diaz,FMCG,North America,Canada,Premium
+CUST0483,"Valdez, Acosta and Edwards",Technology,APAC,Singapore,Standard
+CUST0484,Fuentes-Willis,Manufacturing,EMEA,Germany,Strategic
+CUST0485,"Hernandez, Newton and Marshall",Manufacturing,LATAM,Mexico,Standard
+CUST0486,Mcguire-Oliver,Healthcare,APAC,India,Premium
+CUST0487,Sanchez Group,Telecommunications,North America,Canada,Strategic
+CUST0488,Lowe and Sons,FMCG,EMEA,France,Standard
+CUST0489,"Fisher, Franklin and Baker",Technology,APAC,India,Strategic
+CUST0490,Johnson-Wang,Professional Services,North America,Canada,Strategic
+CUST0491,"Bass, Smith and Sawyer",Telecommunications,EMEA,Germany,Strategic
+CUST0492,Hoffman-Ramirez,Telecommunications,LATAM,Mexico,Standard
+CUST0493,Rhodes PLC,Professional Services,LATAM,Mexico,Strategic
+CUST0494,Golden-Ray,Healthcare,North America,Canada,Premium
+CUST0495,Rose-James,Professional Services,North America,United States,Premium
+CUST0496,"Parker, Singh and Tucker",Technology,EMEA,France,Standard
+CUST0497,"Campbell, Stewart and Griffin",FMCG,LATAM,Brazil,Strategic
+CUST0498,Smith-Oliver,Healthcare,EMEA,United Kingdom,Strategic
+CUST0499,Kelley Group,Telecommunications,APAC,Singapore,Premium
+CUST0500,Anderson LLC,Retail,EMEA,Germany,Premium

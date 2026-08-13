@@ -1,0 +1,22 @@
+Process_ID,Department,Process
+PROC001,Finance Operations,Invoice Processing
+PROC002,Finance Operations,Payment Processing
+PROC003,Finance Operations,Accounts Reconciliation
+PROC004,HR Operations,Employee Records
+PROC005,HR Operations,Payroll Support
+PROC006,HR Operations,Benefits Administration
+PROC007,IT Support,Access Management
+PROC008,IT Support,Hardware Support
+PROC009,IT Support,Application Support
+PROC010,Procurement,Purchase Order Processing
+PROC011,Procurement,Vendor Management
+PROC012,Customer Service,Customer Query
+PROC013,Customer Service,Complaint Management
+PROC014,Customer Service,Account Support
+PROC015,Data Operations,Data Validation
+PROC016,Data Operations,Data Maintenance
+PROC017,Data Operations,Reporting Support
+PROC018,Compliance,Compliance Review
+PROC019,Compliance,Documentation Review
+PROC020,Order Management,Order Processing
+PROC021,Order Management,Order Exception Management
